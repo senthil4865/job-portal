@@ -1,0 +1,112 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Liam Noah",
+      "applicationId": 11
+    },
+    {
+      "id": 2,
+      "name": "Lucas Elijhah"
+    },
+    {
+      "id": 3,
+      "name": "James William",
+      "applicationId": 12
+    },
+    {
+      "id": 4,
+      "name": "Oliver Benjamin",
+      "applicationId": 13
+    },
+    {
+      "id": 5,
+      "name": "Mason Logan",
+      "applicationId": 14
+    },
+    {
+      "id": 6,
+      "name": "James john"
+    }
+  ],
+  "questions": [
+    {
+      "id": 25,
+      "question": "Tell me about yourself"
+    },
+    {
+      "id": 20,
+      "question": "what are your strengths?"
+    },
+    {
+      "id": 26,
+      "question": "What are your weakeness?"
+    },
+    {
+      "id": 30,
+      "question": "Why you want to work for knockri?"
+    },
+    {
+      "id": 29,
+      "question": "Which technologies you are good at?"
+    }
+  ],
+  "applications": [
+    {
+      "id": 11,
+      "videos": [
+        {
+          "src": "src/assets/videos/video.mp4",
+          "questionId": 20,
+          "comments": []
+        },
+        {
+          "src": "src/assets/videos/video.mp",
+          "questionId": 29,
+          "comments": []
+        },
+        {
+          "src": "src/assets/videos/video.mp",
+          "questionId": 12,
+          "comments": [
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "videos": [
+        {
+          "src": "src/assets/videos/video.mp",
+          "questionId": 25,
+          "comments": []
+        },
+        {
+          "src": "src/assets/videos/video.mp",
+          "questionId": 30,
+          "comments": []
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "videos": [
+        {
+          "src": "src/assets/videos/video.mp",
+          "questionId": 26,
+          "comments": []
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "videos": [
+        {
+          "src": "src/assets/videos/video.mp",
+          "questionId": 25,
+          "comments": []
+        }
+      ]
+    }
+  ]
+}
